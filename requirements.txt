@@ -4,3 +4,4 @@ bs4
 humanfriendly
 jinja2
 flask
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
